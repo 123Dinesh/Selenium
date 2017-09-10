@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.spring.selenium.WebDriverTest" duration-ms="5746" started-at="2017-09-09T17:29:17Z" finished-at="2017-09-09T17:29:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5746" started-at="2017-09-09T17:29:17Z" finished-at="2017-09-09T17:29:23Z">
+      <class name="com.spring.selenium.WebDriverTest">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.spring.selenium.WebDriverTest@22f71333]" name="testSetUp" is-config="true" duration-ms="3618" started-at="2017-09-09T22:59:17Z" finished-at="2017-09-09T22:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="loginWithCorrectCredential()[pri:0, instance:com.spring.selenium.WebDriverTest@22f71333]" name="loginWithCorrectCredential" duration-ms="1552" started-at="2017-09-09T22:59:20Z" finished-at="2017-09-09T22:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectCredential -->
+        <test-method status="PASS" signature="loginWithWrongCredential()[pri:0, instance:com.spring.selenium.WebDriverTest@22f71333]" name="loginWithWrongCredential" duration-ms="288" started-at="2017-09-09T22:59:22Z" finished-at="2017-09-09T22:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongCredential -->
+        <test-method status="PASS" signature="resetForm()[pri:0, instance:com.spring.selenium.WebDriverTest@22f71333]" name="resetForm" duration-ms="275" started-at="2017-09-09T22:59:22Z" finished-at="2017-09-09T22:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.spring.selenium.WebDriverTest@22f71333]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-09-09T22:59:23Z" finished-at="2017-09-09T22:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.spring.selenium.WebDriverTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.spring.selenium.WebDriverTest -->
+</testng-results>
